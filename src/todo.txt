@@ -1,0 +1,17 @@
+login page with phone and password
+
+main page with different tabs
+
+packages needed
+
+react router dom
+/ - main page
+/dashboard 
+/settings
+/profile
+
+store and phone in local storage
+
+regex - validate phone and password
+phone: starts with 6,7,8,9 and 10 digits
+password - 6 digits

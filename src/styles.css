@@ -1,0 +1,49 @@
+.App {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  label,
+  input {
+    display: block;
+    width: 100%;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    height: 22px;
+  }
+  
+  input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #777;
+  }
+    
+  button {
+    padding: 10px 15px;
+    background-color: #16af56;
+    color: white;
+    border: 1px solid rgb(12, 114, 29);
+    background-color: 250ms;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: #16af56;
+    color: hsl(195, 100%, 2%);
+  }
+
+.flex-container {
+  display: flex
+}
